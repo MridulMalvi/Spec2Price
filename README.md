@@ -1,10 +1,10 @@
-# Laptop_Price_Prediction 
+# Laptop_Price_Predictor
 
-# 💻 Laptop Price Prediction  
+# 💻 Laptop Price Predictor  
 
 This is a **Machine Learning project** that predicts the price of a laptop based on various hardware and software specifications like **Company, Type, RAM, Weight, Touchscreen, IPS Display, PPI, CPU brand, HDD, SSD, GPU brand, and Operating System**.  
 
-🚀 **Live Demo:** [Laptop Price Prediction App](https://mridulmalvi-laptop-price-prediction-app-xvutei.streamlit.app/)  
+🚀 **Live Demo:** [Laptop Price Predictor App](https://mridulmalvi-laptop-price-prediction-app-xvutei.streamlit.app/)  
 
 ---
 
