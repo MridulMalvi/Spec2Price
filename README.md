@@ -68,8 +68,8 @@ This project is open-source and available under the MIT License.
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/<your-username>/laptop-price-prediction.git
-cd laptop-price-prediction
+git clone https://github.com/MridulMalvi/Spec2Price.git
+cd Spec2Price
 
 #Install dependencies
 pip install -r requirements.txt
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 #Or use the hosted version
-[Laptop Price Prediction App](https://mridulmalvi-laptop-price-prediction-app-xvutei.streamlit.app/)
+[Spec2Price App](https://mridulmalvi-laptop-price-prediction-app-xvutei.streamlit.app/)
 
 
 #Technologies Used
