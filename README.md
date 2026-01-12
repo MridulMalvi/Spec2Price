@@ -1,10 +1,11 @@
-# Laptop_Price_Predictor
+# Spec2Price
 
-# 💻 Laptop Price Predictor  
+# 💻 Spec2Price
+  
 
 This is a **Machine Learning project** that predicts the price of a laptop based on various hardware and software specifications like **Company, Type, RAM, Weight, Touchscreen, IPS Display, PPI, CPU brand, HDD, SSD, GPU brand, and Operating System**.  
 
-🚀 **Live Demo:** [Laptop Price Predictor App](https://mridulmalvi-laptop-price-prediction-app-xvutei.streamlit.app/)  
+🚀 **Live Demo:** [Spec2Price App](https://mridulmalvi-laptop-price-prediction-app-xvutei.streamlit.app/)  
 
 ---
 
