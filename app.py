@@ -7,7 +7,7 @@ import pickle
 df = pickle.load(open('df.pkl', 'rb'))
 pipe = pickle.load(open('pipe.pkl', 'rb'))
 
-st.title("💻 Laptop Price Predictor")
+st.title("💻 Spec2Price ")
 
 # Input fields
 Company = st.selectbox("Brand", df['Company'].unique())
